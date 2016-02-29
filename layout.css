@@ -1,0 +1,54 @@
+body {
+  background-image: url('img/zapata.jpg');
+  font-family: 'Orbitron', sans-serif;
+}
+
+header {
+  font-size: 50px;
+  text-align: center;
+  color: blue;
+}
+
+.main {
+  font-size: 40px;
+  text-align: center;
+  color: blue;
+}
+
+.aside1 {
+  float: left;
+}
+
+.aside2 {
+  float: right;
+}
+
+#photo1 {
+  height: 400px;
+  width: 400px;
+}
+
+#photo2 {
+  height: 400px;
+  width: 400px;
+}
+
+footer {
+  clear: both;
+  text-align: center;
+  color: blue;
+  font-size: 40px;
+}
+
+#response {
+  font-size: 30px;
+  color: blue;
+  text-align: center;
+  margin-top: 200px;
+}
+
+#results {
+  text-align: center;
+  color: magenta;
+}
+Status API Training Shop Blog About Pricing
