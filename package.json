@@ -1,0 +1,16 @@
+{
+  "name": "latin american revolutionaries",
+  "version": "1.0.0",
+  "description": "Choose your favorite revolutionary.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Richardson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-request-proxy": "^1.0.10",
+    "pushstate-server": "^1.8.1"
+  }
+}

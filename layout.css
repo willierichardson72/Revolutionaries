@@ -1,4 +1,4 @@
-/*body {
+body {
   background-image: url('img/zapata.jpg');
   font-family: 'Orbitron', sans-serif;
 }
@@ -50,16 +50,7 @@ footer {
 #results {
   text-align: center;
   color: magenta;
-}*/
-
-div#top_div {
-  width: 200px;
-  position: relative;
 }
 
-div#inner_div {
-  width: 100px;
-  padding-left: 100px;
-  padding-right: 100px;
-}
+
 Status API Training Shop Blog About Pricing
